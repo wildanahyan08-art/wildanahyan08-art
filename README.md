@@ -33,7 +33,7 @@ A passionate **Software Engineering (Rekayasa Perangkat Lunak)** student at **SM
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Wildan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wildanahyan08-artE&show_icons=true&theme=radical" alt="Wildan's GitHub Stats" />
 </p>
 
 ---
